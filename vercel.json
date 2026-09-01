@@ -3,10 +3,10 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
-    { "source": "/about", "destination": "/index.html" },
-    { "source": "/practice-areas", "destination": "/index.html" },
-    { "source": "/insights", "destination": "/index.html" },
-    { "source": "/contact", "destination": "/index.html" }
+    { "source": "/about", "destination": "/" },
+    { "source": "/practice-areas", "destination": "/" },
+    { "source": "/insights", "destination": "/" },
+    { "source": "/contact", "destination": "/" }
   ],
   "headers": [
     {
